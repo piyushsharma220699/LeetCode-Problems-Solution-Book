@@ -24,4 +24,4 @@ Eg: 1 : Add Sum <br>
 4. PLEASE DO NOT COPY THE CODE, PLAGIARIZED PR's WILL NOT GET ACCEPTED AT ALL!
 
 
-## To understand what is Git & Github, <a href="https://www.youtube.com/watch?v=apGV9Kg7ics  ">Watch this</a> (Thanks to @kunal-kushwaha for this amazing explanation).
+## To understand what is Git & Github, <a href="https://www.youtube.com/watch?v=apGV9Kg7ics  " target="_blank">Watch this</a> (Thanks to Kunal Kushwaha for this amazing explanation).
