@@ -14,7 +14,6 @@ Eg: 1 : Add Sum <br>
 8. You've done your job. Now wait for it to get reviewed and approved by maintainers :)
 
 
-
 ## MUST READ NOTES FOR THE CONTRIBUTOR
 1. You cannot work on any issue that is not assigned to you. Issues will be assigned on a FIRST COME FIRST SERVE (FCFS) basis. The person who creates the issue gets the first priority. And then, issues are assigned based on who commented first. You just have to comment on the issue, asking to be assigned and the programming language you are going to use, and it will be done if found fit.
 2. Don't forget to add the following things to your code (The PR will not get accepted if these are not present) -
@@ -23,3 +22,6 @@ Eg: 1 : Add Sum <br>
     C. After the code, a block comment having sample input, sample output, time complexity of the solution and space complexity of the solution.<br>
 3. All PRs must be made from a Branch. Create a separate branch for every Issue you are working upon and then create a PR.<br>
 4. PLEASE DO NOT COPY THE CODE, PLAGIARIZED PR's WILL NOT GET ACCEPTED AT ALL!
+
+
+## To understand what is Git & Github, <a href="https://www.youtube.com/watch?v=apGV9Kg7ics  ">Watch this</a> (Thanks to @kunal-kushwaha for this amazing explanation).
