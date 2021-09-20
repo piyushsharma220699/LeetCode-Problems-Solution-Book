@@ -13,6 +13,7 @@ Add "Problem Number" + " : " + "Problem Name" in README.md<br>
 Eg: 1 : Add Sum <br>
 8. You've done your job. Now wait for it to get reviewed and approved by maintainers :)
 
+<br>
 
 ## MUST READ NOTES FOR THE CONTRIBUTOR
 1. You cannot work on any issue that is not assigned to you. Issues will be assigned on a FIRST COME FIRST SERVE (FCFS) basis. The person who creates the issue gets the first priority. And then, issues are assigned based on who commented first. You just have to comment on the issue, asking to be assigned and the programming language you are going to use, and it will be done if found fit.
@@ -23,5 +24,6 @@ Eg: 1 : Add Sum <br>
 3. All PRs must be made from a Branch. Create a separate branch for every Issue you are working upon and then create a PR.<br>
 4. PLEASE DO NOT COPY THE CODE, PLAGIARIZED PR's WILL NOT GET ACCEPTED AT ALL!
 
+<br><br>
 
 ## To understand what is Git & Github, <a href="https://www.youtube.com/watch?v=apGV9Kg7ics  " target="_blank">Watch this</a> (Thanks to Kunal Kushwaha for this amazing explanation).
