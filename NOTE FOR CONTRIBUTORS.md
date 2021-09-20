@@ -8,9 +8,9 @@
 4. If the problem is not present in the existing issues, create a new issue. Don't forget to mention the language you want to work on.
 5. WAIT PATIENTLY FOR THE ISSUE TO BE ASSIGNED TO YOU!
 6. Create a new branch in your forked repository and start working on your code.
-7. After you're done with the code, update the README.md file you find in that folder in order of <b>LEETCODE PROBLEM NUMBER</b> (Make sure you don't change the README.md in root of project but the README.md in folder of language you're working.)
-Add "Problem Number" + " : " + "Problem Name" in README.md
-Eg: 1 : Add Sum 
+7. After you're done with the code, update the README.md file you find in that folder in order of <b>LEETCODE PROBLEM NUMBER</b> (Make sure you don't change the README.md in root of project but the README.md in folder of language you're working.)<br><br>
+Add "Problem Number" + " : " + "Problem Name" in README.md<br>
+Eg: 1 : Add Sum <br>
 8. You've done your job. Now wait for it to get reviewed and approved by maintainers :)
 
 
