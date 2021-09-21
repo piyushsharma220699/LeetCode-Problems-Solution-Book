@@ -9,9 +9,11 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/piyushsharma220699/Hacktoberfest-2021.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/piyushsharma220699/Hacktoberfest-2021.svg)
 
+<img src="https://">
+
 This is a beginner-friendly leetcoding project to help you get started with your hacktoberfest. This repository is actually made to help beginners step up and join hands with the open source community. Feel free to start contributing. There are no wrong contributions. If you don't know where to start, feel free to watch the videos linked below, and read the contribution rules. Happy hacking <3 !!
 
-# HALL OF FAME (CHECK OUT OUR CONTRIBUTORS) 🏆
+## HALL OF FAME (CHECK OUT OUR CONTRIBUTORS) 🏆🦸
 
 <a href="https://github.com/piyushsharma220699/Hacktoberfest-2021/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=piyushsharma220699/Hacktoberfest-2021" />
