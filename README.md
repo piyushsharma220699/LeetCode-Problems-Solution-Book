@@ -1,6 +1,5 @@
 # HACKTOBERFEST 2021
 
-[![Build Status](https://travis-ci.org/Showndarya/Hacktoberfest.svg?branch=master)](https://travis-ci.org/Showndarya/Hacktoberfest)
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/piyushsharma220699/Hacktoberfest-2021)&nbsp;
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://hacktoberfest.netlify.com/)&nbsp;
