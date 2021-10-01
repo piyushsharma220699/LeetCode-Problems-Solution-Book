@@ -1,11 +1,14 @@
-//Link Of Question : https://leetcode.com/problems/two-sum/
-
+/*Link Of Question : https://leetcode.com/problems/two-sum/
+1. Two Sum
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+*/
 //Solution : 
 
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         
+        //unordered map for storing the element and index of that element
         unordered_map<int,int>mp;
         
         for(int i=0;i<nums.size();i++)
@@ -13,6 +16,7 @@ public:
             
             int x = target - nums[i];
             
+            //check if that element is present in the map
             if(mp.find(x) != mp.end())
             {
                 int ind1 = mp[x];
@@ -22,6 +26,8 @@ public:
             
             mp.insert({nums[i],i});
         }
+
+        //return -1,-1 if no pair of elements are found with given sum.
         return {-1,-1};
     }
 };
