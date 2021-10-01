@@ -15,6 +15,8 @@ This is a beginner-friendly leetcoding project to help you get started with your
 
 Don't forget to register yourself on <a href="https://hacktoberfest.digitalocean.com/" alt="Hacktoberfest 2021">hacktoberfest</a> page
 
+<br>
+
 ## EVENT DETAILS:
 
 1. Hacktoberfest is a month-long challenge that happens in every year in the month of October, marking the celebration of Open Source Community. It helps the newbies to create their 1st meaningful PR.
@@ -22,6 +24,8 @@ Don't forget to register yourself on <a href="https://hacktoberfest.digitalocean
 3. All backgrounds and skill levels are encouraged to complete the challenge.
 
 To know more about the event, <a href="https://www.youtube.com/watch?v=MzpOQSJxHEM">WATCH THIS</a>
+
+<br>
 
 ## HALL OF FAME (CHECK OUT OUR CONTRIBUTORS) 🏆🦸
 
