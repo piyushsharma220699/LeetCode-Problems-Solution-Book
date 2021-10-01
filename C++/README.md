@@ -4,15 +4,17 @@
 
 1 : Two Sum<br>
 3 : Longest Substring Without Repeating Characters<br>
+6 : ZigZag Conversion<br>
 8 : String to Integer (atoi)<br>
 11 : Container With Most Water<br>
 12 : Integer to Roman<br>
 15 : 3Sum<br>
 21 : Merge two sorted lists<br>
-31 : Next Permutation
-55: Jump Game<br>
-198: House Robber<br>
-268: Missing Number<br>
-503: Next Greater Element II<br>
+31 : Next Permutation<br>
+55 : Jump Game<br>
+121 : Best Time To Buy And Sell Stock<br>
+198 : House Robber<br>
+268 : Missing Number<br>
+503 : Next Greater Element II<br>
 1014 : Best Sightseeing Pair<br>
 1964 : Find the Longest Valid Obstacle Course at Each Position<br>
