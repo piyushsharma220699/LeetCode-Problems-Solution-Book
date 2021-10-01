@@ -9,6 +9,7 @@
 12 : Integer to Roman<br>
 15 : 3Sum<br>
 21 : Merge two sorted lists<br>
+31 : Next Permutation
 55: Jump Game<br>
 198: House Robber<br>
 268: Missing Number<br>
