@@ -17,4 +17,5 @@
 268 : Missing Number<br>
 503 : Next Greater Element II<br>
 1014 : Best Sightseeing Pair<br>
+1769 : Minimum Number of Operations to Move All Balls to Each Box<br>
 1964 : Find the Longest Valid Obstacle Course at Each Position<br>
