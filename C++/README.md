@@ -6,12 +6,12 @@
 3 : Longest Substring Without Repeating Characters<br>
 6 : ZigZag Conversion<br>
 8 : String to Integer (atoi)<br>
+9 : Palindrome Number<br> 
 11 : Container With Most Water<br>
 12 : Integer to Roman<br>
 15 : 3Sum<br>
 21 : Merge two sorted lists<br>
 31 : Next Permutation<br>
-48 : Rotate Image<br>
 55 : Jump Game<br>
 121 : Best Time To Buy And Sell Stock<br>
 198 : House Robber<br>
