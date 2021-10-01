@@ -1,5 +1,16 @@
-//Problem 54. Spiral Matrix on Leetcode
-class SpiralMatrix {
+//Problem 54. Spiral Matrix on Leetcode : https://leetcode.com/problems/spiral-matrix/
+//Given an m x n matrix, return all elements of the matrix in spiral order.
+//Sample Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+//Sample Output: [1,2,3,6,9,8,7,4,5]
+
+/*Constraints:
+m == matrix.length
+n == matrix[i].length
+1 <= m, n <= 10
+-100 <= matrix[i][j] <= 100
+*/
+
+public class SpiralMatrix {
 	public List<Integer> spiralOrder(int[][] matrix) {
 		int startRow = 0;
 		int endRow = matrix.length - 1;
@@ -34,3 +45,6 @@ class SpiralMatrix {
 		return arr;
 	}
 }
+
+//Time Complexity: O(m*n)
+//Space Complexity: O(m*n)
