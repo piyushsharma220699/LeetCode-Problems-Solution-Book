@@ -19,19 +19,19 @@ class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
         
-        if(l1 == NULL) {
+        if(l1 == NULL) { // if l1 is NULL return l2
             return l2;
         }
         
-        if(l2 == NULL) {
+        if(l2 == NULL) { // if l2 is NULL return l1
             return l1;
         }
         
         ListNode* res;
-        if(l1->val <= l2->val) {
+        if(l1->val <= l2->val) { //if value of l1 is less than or equal to value of l2
             
             res = l1;
-            res->next = mergeTwoLists(l1->next, l2);
+            res->next = mergeTwoLists(l1->next, l2); //point next of res to the return value of recurrsive function
         }
         
         else{
