@@ -29,3 +29,23 @@ public:
             reverse(m[i].begin(), m[i].end());
     }
 };
+
+/*
+Sample 
+
+Input: matrix = [[1,2,3],[4,5,6],[7,8,9]]
+Output: [[7,4,1],[8,5,2],[9,6,3]]
+
+Here for swapping we are visiting each cell of matrix once 
+and similarly for reversing as well therefore 
+time complexity will be total number of cells i.e n x n
+
+Time Complexity : O(n x n)
+
+Talking about space complexity , we are not using any additional space here
+because we are modifying the given matrix itself.
+
+Space complexity : O(1)
+
+
+*/
