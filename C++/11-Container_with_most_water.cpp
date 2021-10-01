@@ -32,6 +32,10 @@ public:
 };
 
 /* 
+Sample input : [4,3,2,1,4]
+Sample output : 16
+
+
 Time Complexity : O(n), linear time
 Space Complexity : O(1), costant space
 */
