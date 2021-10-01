@@ -16,6 +16,7 @@
 121 : Best Time To Buy And Sell Stock<br>
 198 : House Robber<br>
 268 : Missing Number<br>
+329 : Longest Increasing Path in a Matrix<br>
 503 : Next Greater Element II<br>
 1014 : Best Sightseeing Pair<br>
 1769 : Minimum Number of Operations to Move All Balls to Each Box<br>
