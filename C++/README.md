@@ -11,5 +11,6 @@
 55: Jump Game<br>
 198: House Robber<br>
 268: Missing Number<br>
+503: Next Greater Element II<br>
 1014 : Best Sightseeing Pair<br>
 1964 : Find the Longest Valid Obstacle Course at Each Position<br>
