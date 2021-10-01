@@ -1,4 +1,5 @@
 /*  
+Link of Question : https://leetcode.com/problems/merge-intervals/
 
 56. Merge Intervals
 Given an array of intervals where intervals[i] = [starti, endi], merge all overlapping intervals,
@@ -11,9 +12,9 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         
         vector<vector<int>>ans;
-        sort(intervals.begin(),intervals.end());
+        sort(intervals.begin(),intervals.end());  //sorting 2d array
         vector<int>t=intervals[0];
-        for(auto i:intervals){
+        for(auto i:intervals){    //Iterating Each row in 2D array
             if(i[0]<=t[1]){
                 t[1]=max(i[1],t[1]);
             }
@@ -22,14 +23,13 @@ public:
                 t=i;
             }
         }
-        ans.push_back(t);
+        ans.push_back(t);   //pushing intervals into ans
         return ans;
         
         }
 };
 
 /*
-
 Sample Input: intervals = [[1,3],[2,6],[8,10],[15,18]]
 Sample Output: [[1,6],[8,10],[15,18]]
 Time Complexity : O(N*logN)+O(N)
