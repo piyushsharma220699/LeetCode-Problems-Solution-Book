@@ -1,0 +1,24 @@
+LCS is a well-known problem, and there are similar problems here:
+
+1092. Shortest Common Supersequence
+1062. Longest Repeating Substring
+516. Longest Palindromic Subsequence
+Bottom-up DP utilizes a matrix m where we track LCS sizes for each combination of i and j.
+
+If a[i] == b[j], LCS for i and j would be 1 plus LCS till the i-1 and j-1 indexes.
+Otherwise, we will take the largest LCS if we skip a charracter from one of the string (max(m[i - 1][j], m[i][j - 1]).
+
+Solution
+int longestCommonSubsequence(string &a, string &b) {
+  vector<vector<short>> m(a.size() + 1, vector<short>(b.size() + 1));
+  for (auto i = 1; i <= a.size(); ++i)
+    for (auto j = 1; j <= b.size(); ++j)
+      if (a[i - 1] == b[j - 1]) m[i][j] = m[i - 1][j - 1] + 1;
+      else m[i][j] = max(m[i - 1][j], m[i][j - 1]);
+  return m[a.size()][b.size()];
+}
+Complexity Analysis
+Runtime: O(nm), where n and m are the string sizes.
+Memory: O(nm)
+
+
