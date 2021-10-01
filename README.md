@@ -32,16 +32,14 @@ To know more about the event, <a href="https://www.youtube.com/watch?v=MzpOQSJxH
 <a href="https://github.com/piyushsharma220699/Hacktoberfest-2021/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=piyushsharma220699/Hacktoberfest-2021" />
 </a>
-<br>
-
-### Find me around the Web (I'll Love To Connect! 😄):
-[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Techie Sharma" title="Techie Sharma"/>](https://www.youtube.com/c/TechieSharma/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile" title="Linkedin Profile"/>](https://www.linkedin.com/in/piyushsharma220699/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" title="Instagram Profile"/>](https://www.instagram.com/piyush_sharma226/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog" title="Medium Blog"/>](https://medium.com/@piyushsharma220699)
 
 <br>
 
+## HERE COMES OUR FORKERS 🍴🦸
 
-## DON'T FORGET TO DROP A STAR IF YOU LIKE MY WORK :) Our Stargazers ::
+[![Forkers repo roster for @piyushsharma220699/Hacktoberfest-2021](https://reporoster.com/forks/piyushsharma220699/Hacktoberfest-2021)](https://github.com/piyushsharma220699/Hacktoberfest-2021/network/members)
+
+<br>
+
+## DON'T FORGET TO DROP A STAR IF YOU LIKE MY WORK :) OUR STARGAZERS ARE FEATURED HERE ::
 [![Stargazers repo roster for @piyushsharma220699/Hacktoberfest-2021](https://reporoster.com/stars/piyushsharma220699/Hacktoberfest-2021)](https://github.com/piyushsharma220699/Hacktoberfest-2021/stargazers)
