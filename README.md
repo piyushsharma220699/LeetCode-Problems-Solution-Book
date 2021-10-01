@@ -41,5 +41,9 @@ To know more about the event, <a href="https://www.youtube.com/watch?v=MzpOQSJxH
 
 <br>
 
-## DON'T FORGET TO DROP A STAR IF YOU LIKE MY WORK :) OUR STARGAZERS ARE FEATURED HERE ::
+## OUR STARGAZERS ARE FEATURED HERE ⭐✨
 [![Stargazers repo roster for @piyushsharma220699/Hacktoberfest-2021](https://reporoster.com/stars/piyushsharma220699/Hacktoberfest-2021)](https://github.com/piyushsharma220699/Hacktoberfest-2021/stargazers)
+
+<br>
+
+## <i> Don't forget to drop a star if you like my work </i>
