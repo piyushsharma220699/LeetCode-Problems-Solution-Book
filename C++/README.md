@@ -3,3 +3,4 @@
 ### NOTE : Include the code in the list in order of leetcode problem statement number
 
 56: Merge Intervals
+74: Search a 2D Matrix
