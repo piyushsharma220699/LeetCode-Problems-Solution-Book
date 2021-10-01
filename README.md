@@ -39,11 +39,7 @@ To know more about the event, <a href="https://www.youtube.com/watch?v=MzpOQSJxH
 
 [![Forkers repo roster for @piyushsharma220699/Hacktoberfest-2021](https://reporoster.com/forks/piyushsharma220699/Hacktoberfest-2021)](https://github.com/piyushsharma220699/Hacktoberfest-2021/network/members)
 
-<br>
-
 ## OUR STARGAZERS ARE FEATURED HERE ⭐✨
 [![Stargazers repo roster for @piyushsharma220699/Hacktoberfest-2021](https://reporoster.com/stars/piyushsharma220699/Hacktoberfest-2021)](https://github.com/piyushsharma220699/Hacktoberfest-2021/stargazers)
 
-<br>
-
-## <i> Don't forget to drop a star if you like my work </i>
+## <i>⭐⭐ Don't forget to drop a star if you like my work ⭐⭐</i>
