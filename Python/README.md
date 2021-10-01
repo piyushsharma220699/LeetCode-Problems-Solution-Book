@@ -3,3 +3,4 @@
 ### NOTE : Include the code in the list in order of leetcode problem statement number
 
 1 : Two Sum<br>
+7 : Reverse Integer<br>
