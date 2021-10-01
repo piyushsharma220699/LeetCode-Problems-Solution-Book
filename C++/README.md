@@ -3,6 +3,7 @@
 ### NOTE : Include the code in the list in order of leetcode problem statement number
 
 1 : Two Sum<br>
+2 : Add Two Numbers<br>
 3 : Longest Substring Without Repeating Characters<br>
 6 : ZigZag Conversion<br>
 8 : String to Integer (atoi)<br>
