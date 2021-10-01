@@ -11,7 +11,9 @@
 
 <img src="https://github.com/piyushsharma220699/Hacktoberfest-2021/blob/main/Images/Hacktoberfest.jpg" alt="Hacktoberfest 2021">
 
-This is a beginner-friendly leetcoding project to help you get started with your hacktoberfest. This repository is actually made to help beginners step up and join hands with the open source community. Feel free to start contributing. There are no wrong contributions. If you don't know where to start, feel free to watch the videos linked below, and read the contribution rules. Happy hacking <3 !!
+This is a beginner-friendly leetcoding project to help you get started with your hacktoberfest. This repository is actually made to help beginners step up and join hands with the open source community. Feel free to start contributing. There are no wrong contributions. If you don't know where to start, feel free to <a href="https://www.linkedin.com/in/piyushsharma220699/" alt="Contact the creator">contact me</a>. Please don't forget to read the contribution rules. Happy hacking <3 !!
+
+Don't forget to register yourself on <a href="https://hacktoberfest.digitalocean.com/" alt="Hacktoberfest 2021">hacktoberfest</a> page
 
 ## HALL OF FAME (CHECK OUT OUR CONTRIBUTORS) 🏆🦸
 
