@@ -1,5 +1,6 @@
 /*  
 
+56. Merge Intervals
 Given an array of intervals where intervals[i] = [starti, endi], merge all overlapping intervals,
 and return an array of the non-overlapping intervals that cover all the intervals in the input.
 
@@ -27,9 +28,11 @@ public:
         }
 };
 
-/* sample input and output */
 /*
-Input: intervals = [[1,3],[2,6],[8,10],[15,18]]
-Output: [[1,6],[8,10],[15,18]]
-Explanation: Since intervals [1,3] and [2,6] overlaps, merge them into [1,6].
+
+Sample Input: intervals = [[1,3],[2,6],[8,10],[15,18]]
+Sample Output: [[1,6],[8,10],[15,18]]
+Time Complexity : O(N*logN)+O(N)
+Space Complexity: O(N)
+
 */
