@@ -4,3 +4,4 @@
 
 1 : Two Sum<br>
 9 : Palindrome Number<br>
+53: Merge Intervals
