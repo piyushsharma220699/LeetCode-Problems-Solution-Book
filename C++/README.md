@@ -13,5 +13,8 @@
 198: House Robber<br>
 268: Missing Number<br>
 503: Next Greater Element II<br>
+859 :buddy strings<br>
 1014 : Best Sightseeing Pair<br>
+1313 : Decompress Run-Length Encoded List<br>
+1832 :check_if_the_sentence_is_pangram<br>
 1964 : Find the Longest Valid Obstacle Course at Each Position<br>
