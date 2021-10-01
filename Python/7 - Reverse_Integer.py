@@ -1,9 +1,9 @@
-Link for the problem : https://leetcode.com/problems/reverse-integer
+"""Link for the problem : https://leetcode.com/problems/reverse-integer
     
     Problem Statement :
       Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
-    
-  SOLUTION :
+    """
+ """SOLUTION :"""
     class Solution:
     def reverse(self, x: int) -> int:
         res = 0 # initiating result variable
@@ -27,7 +27,7 @@ Link for the problem : https://leetcode.com/problems/reverse-integer
             res =0        
         return res
       
-      Sample Input : 123
+    """  Sample Input : 123
              Output : 321
             
              Input : 120
@@ -39,3 +39,5 @@ Link for the problem : https://leetcode.com/problems/reverse-integer
               
        Time Complexity : O(log base 10 (n))
        Space Complexity : O(1)
+        
+     """
