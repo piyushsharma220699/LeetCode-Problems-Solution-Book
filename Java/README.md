@@ -4,3 +4,4 @@
 
 1 : Two Sum
 2 : Palindrome Number
+3 : Sort Array by Increasing Frequency
