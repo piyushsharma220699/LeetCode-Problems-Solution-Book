@@ -8,6 +8,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/piyushsharma220699/Hacktoberfest-2021.svg)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/piyushsharma220699/Hacktoberfest-2021.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/piyushsharma220699/Hacktoberfest-2021.svg)
+![](https://visitor-badge.glitch.me/badge?page_id=piyushsharma220699.Hacktoberfest-2021)
 
 <i>Please don't forget to read the <a href="https://github.com/piyushsharma220699/Hacktoberfest-2021/blob/main/NOTE%20FOR%20CONTRIBUTORS.md">NOTE FOR CONTRIBUTORS.md</a> file before making the contribution otherwise your PR will not get accepted! Also, ⭐ the repo to appreciate the work.</i>
 
