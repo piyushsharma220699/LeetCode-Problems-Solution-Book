@@ -10,6 +10,7 @@
 12 : Integer to Roman<br>
 15 : 3Sum<br>
 21 : Merge two sorted lists<br>
+31 : Next Permutation<br>
 55 : Jump Game<br>
 121 : Best Time To Buy And Sell Stock<br>
 198 : House Robber<br>
