@@ -67,6 +67,6 @@ return 0;
  Time complexity: O(m*n)        // Recursive Solution using memoization
  Space Complexity: O(m*n)      // Storing 2D matrix for memoization
 
- m and n are size of string 1 and 2 
+ m and n are size of string 7 and 6
 
  */
