@@ -35,3 +35,5 @@ public:
 // Input: matrix = [[9,9,4],[6,6,8],[2,1,1]]
 // Output: 4
 // Explanation: The longest increasing path is [1, 2, 6, 9].
+// Time Complexity : O(N*M)
+// Space Complexity : O(N*M)
