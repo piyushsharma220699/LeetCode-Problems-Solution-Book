@@ -11,10 +11,12 @@
 15 : 3Sum<br>
 21 : Merge two sorted lists<br>
 31 : Next Permutation<br>
+43 : Multiply Strings<br> 
 48 : Rotate Image<br>
 55 : Jump Game<br>
 59 : Spiral Matrix II<br>
 121 : Best Time To Buy And Sell Stock<br>
+162 : Find Peak Element<br>
 198 : House Robber<br>
 268 : Missing Number<br>
 503 : Next Greater Element II<br>

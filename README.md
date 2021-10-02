@@ -8,6 +8,11 @@
 ![GitHub issues](https://img.shields.io/github/issues/piyushsharma220699/Hacktoberfest-2021.svg)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/piyushsharma220699/Hacktoberfest-2021.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/piyushsharma220699/Hacktoberfest-2021.svg)
+![](https://visitor-badge.glitch.me/badge?page_id=piyushsharma220699.Hacktoberfest-2021)
+[![Stars: piyushsharma220699](https://img.shields.io/github/stars/piyushsharma220699/Hacktoberfest-2021?color=gree&label=Star%20this%20Repo&logo=Star%20this%20Repo)](https://github.com/piyushsharma220699/Hacktoberfest-2021)
+[![Followers: piyushsharma220699](https://img.shields.io/github/followers/piyushsharma220699?label=Follow%20Me)](https://github.com/piyushsharma220699)
+
+<i>Please don't forget to read the <a href="https://github.com/piyushsharma220699/Hacktoberfest-2021/blob/main/NOTE%20FOR%20CONTRIBUTORS.md">NOTE FOR CONTRIBUTORS.md</a> file before making the contribution otherwise your PR will not get accepted! Also, ⭐ the repo to appreciate the work.</i>
 
 <img src="https://github.com/piyushsharma220699/Hacktoberfest-2021/blob/main/Images/Hacktoberfest.jpg" alt="Hacktoberfest 2021">
 
@@ -32,14 +37,14 @@ To know more about the event, <a href="https://www.youtube.com/watch?v=MzpOQSJxH
 <a href="https://github.com/piyushsharma220699/Hacktoberfest-2021/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=piyushsharma220699/Hacktoberfest-2021" />
 </a>
-<br>
-
-### Find me around the Web (I'll Love To Connect! 😄):
-[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Techie Sharma" title="Techie Sharma"/>](https://www.youtube.com/c/TechieSharma/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile" title="Linkedin Profile"/>](https://www.linkedin.com/in/piyushsharma220699/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" title="Instagram Profile"/>](https://www.instagram.com/piyush_sharma226/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog" title="Medium Blog"/>](https://medium.com/@piyushsharma220699)
 
 <br>
 
-## DON'T FORGET TO DROP A STAR IF YOU LIKE MY WORK :)
+## HERE COMES OUR FORKERS 🍴🦸
+
+[![Forkers repo roster for @piyushsharma220699/Hacktoberfest-2021](https://reporoster.com/forks/piyushsharma220699/Hacktoberfest-2021)](https://github.com/piyushsharma220699/Hacktoberfest-2021/network/members)
+
+## OUR STARGAZERS ARE FEATURED HERE ⭐✨
+[![Stargazers repo roster for @piyushsharma220699/Hacktoberfest-2021](https://reporoster.com/stars/piyushsharma220699/Hacktoberfest-2021)](https://github.com/piyushsharma220699/Hacktoberfest-2021/stargazers)
+
+## <i>⭐⭐ Don't forget to drop a star if you like my work ⭐⭐</i>
