@@ -1,0 +1,65 @@
+/*LInk:https://leetcode.com/problems/subsets/
+input: nums = [1,2,3];
+output: [[],[1],[2],[1,2],[3],[1,3],[2,3],[1,2,3]]
+*/
+//TO generate All subsets of Array...
+#include<bits/stdc++.h>
+using namespace std;
+void generate(int a[],int n)
+{
+/*
+1.)Total subsets are =>2^n
+0------------2^n-1
+1<<n =2^n
+*/
+vector<vector<int>>ans;
+for(int i=0;i<(1<<n);i++)
+{
+    vector<int>v;
+    for(int bit=0;bit<n;bit++)
+    {
+        if(i&(1<<bit))
+        {
+            v.push_back(a[bit]);
+        }
+    }
+    ans.push_back(v);
+}
+for(int i=0;i<ans.size();i++)
+{
+    for(int j=0;j<ans[i].size();j++)
+    {
+        cout<<ans[i][j]<<"_";
+    }
+    cout<<endl;
+}
+ans.erase(ans.begin()+1);
+vector<int>arr;
+for(int i=0;i<ans.size();i++)
+{  int oR=0;
+    for(int j=0;j<ans[i].size();j++)
+    {
+      oR=oR|ans[i][j];
+    }
+    arr.push_back(oR);
+    
+}
+arr.erase(unique(arr.begin(),arr.end()),arr.end());
+
+for(auto a:arr)
+{
+    cout<<a<<" ";
+}
+}
+int main()
+{
+    int n;
+    cout<<"enter the n"<<endl;
+    cin>>n;
+    int arr[n];
+    for(int i=0;i<n;i++)
+    {
+ cin>>arr[i];
+    }
+    generate(arr,n);
+}
