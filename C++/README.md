@@ -4,8 +4,9 @@
 
 1 : Two Sum<br>
 3 : Longest Substring Without Repeating Characters<br>
-5 : Longest Palindromic Substring
+5 : Longest Palindromic Substring<br>
 6 : ZigZag Conversion<br>
+7 : Reverse Integer
 8 : String to Integer (atoi)<br>
 11 : Container With Most Water<br>
 12 : Integer to Roman<br>
