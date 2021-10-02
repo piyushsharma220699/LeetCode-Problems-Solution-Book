@@ -1,3 +1,7 @@
+/*LInk:https://leetcode.com/problems/subsets/
+input: nums = [1,2,3];
+output: [[],[1],[2],[1,2],[3],[1,3],[2,3],[1,2,3]]
+*/
 //TO generate All subsets of Array...
 #include<bits/stdc++.h>
 using namespace std;
