@@ -3,3 +3,5 @@
 ### NOTE : Include the code in the list in order of leetcode problem statement number
 
 1 : Two Sum<br>
+2 : Missing Number<br>
+3 : Peak Element <br>
