@@ -18,6 +18,7 @@
 121 : Best Time To Buy And Sell Stock<br>
 162 : Find Peak Element<br>
 198 : House Robber<br>
+230 : Kth Smallest Element in a BST<br>
 268 : Missing Number<br>
 503 : Next Greater Element II<br>
 918 : Maximum Sum Circular Subarray<br>
