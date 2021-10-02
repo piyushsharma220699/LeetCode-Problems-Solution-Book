@@ -19,6 +19,7 @@
 162 : Find Peak Element<br>
 198 : House Robber<br>
 268 : Missing Number<br>
+329 : Longest Increasing Path in a Matrix<br>
 503 : Next Greater Element II<br>
 918 : Maximum Sum Circular Subarray<br>
 1014 : Best Sightseeing Pair<br>
