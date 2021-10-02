@@ -1,5 +1,7 @@
 # SOLVED PROBLEMS
+
 (If you are contributing your code in this language, don't forget to include it in the list below)<br>
+
 ### NOTE : Include the code in the list in order of leetcode problem statement number
 
 1 : Two Sum<br>
@@ -12,7 +14,7 @@
 15 : 3Sum<br>
 21 : Merge two sorted lists<br>
 31 : Next Permutation<br>
-43 : Multiply Strings<br> 
+43 : Multiply Strings<br>
 48 : Rotate Image<br>
 55 : Jump Game<br>
 59 : Spiral Matrix II<br>
@@ -26,4 +28,5 @@
 1014 : Best Sightseeing Pair<br>
 1697 : Checking Existence of Edge Length Limited Paths<br>
 1769 : Minimum Number of Operations to Move All Balls to Each Box<br>
+1887 : Reduction Operations to Make the Array Elements Equal<br>
 1964 : Find the Longest Valid Obstacle Course at Each Position<br>
