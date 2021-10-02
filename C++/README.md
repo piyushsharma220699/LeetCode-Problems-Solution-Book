@@ -6,6 +6,7 @@
 2 : Add Two Numbers<br>
 3 : Longest Substring Without Repeating Characters<br>
 6 : ZigZag Conversion<br>
+7 : Reverse Integer<br>
 8 : String to Integer (atoi)<br>
 11 : Container With Most Water<br>
 12 : Integer to Roman<br>
