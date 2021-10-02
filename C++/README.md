@@ -7,6 +7,7 @@
 3 : Longest Substring Without Repeating Characters<br>
 6 : ZigZag Conversion<br>
 8 : String to Integer (atoi)<br>
+9 : Palindrome Number<br> 
 11 : Container With Most Water<br>
 12 : Integer to Roman<br>
 15 : 3Sum<br>
