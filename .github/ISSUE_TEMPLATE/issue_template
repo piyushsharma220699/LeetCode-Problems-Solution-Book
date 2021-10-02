@@ -2,7 +2,7 @@
 name: Query for assigning A question from Leetcode
 about: ''
 title: "[Question Number].[Question Name]"
-labels: hacktoberfest, hacktoberfest-accepted
+labels: hacktoberfest
 ---
 
 Leetcode Question Number: <question-number>
