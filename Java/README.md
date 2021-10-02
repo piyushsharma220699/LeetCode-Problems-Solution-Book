@@ -4,3 +4,4 @@
 
 1 : Two Sum<br>
 9 : Palindrome Number<br>
+146 : LRU Cache<br>
