@@ -40,3 +40,6 @@ public:
         return (x==sum)||(x==sum/10);
     }
 };
+
+// Time Complexity: O(number of digits)
+// Space Complexity: O(1)
