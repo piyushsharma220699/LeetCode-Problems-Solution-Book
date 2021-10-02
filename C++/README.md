@@ -11,14 +11,17 @@
 15 : 3Sum<br>
 21 : Merge two sorted lists<br>
 31 : Next Permutation<br>
+43 : Multiply Strings<br> 
 48 : Rotate Image<br>
 55 : Jump Game<br>
 59 : Spiral Matrix II<br>
 121 : Best Time To Buy And Sell Stock<br>
+162 : Find Peak Element<br>
 198 : House Robber<br>
 268 : Missing Number<br>
 329 : Longest Increasing Path in a Matrix<br>
 503 : Next Greater Element II<br>
+918 : Maximum Sum Circular Subarray<br>
 1014 : Best Sightseeing Pair<br>
 1769 : Minimum Number of Operations to Move All Balls to Each Box<br>
 1964 : Find the Longest Valid Obstacle Course at Each Position<br>
