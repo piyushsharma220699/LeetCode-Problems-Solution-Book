@@ -16,6 +16,7 @@
 48 : Rotate Image<br>
 55 : Jump Game<br>
 59 : Spiral Matrix II<br>
+75 : Sort Colors<br>
 121 : Best Time To Buy And Sell Stock<br>
 162 : Find Peak Element<br>
 198 : House Robber<br>
