@@ -3,12 +3,15 @@
 ### NOTE : Include the code in the list in order of leetcode problem statement number
 
 1 : Two Sum<br>
+2 : Add Two Number<br>
 3 : Longest Substring Without Repeating Characters<br>
+5 : Longest Palindromic Substring<br>
 6 : ZigZag Conversion<br>
 8 : String to Integer (atoi)<br>
 11 : Container With Most Water<br>
 12 : Integer to Roman<br>
 15 : 3Sum<br>
+20 : Valid Parentheses<br>
 21 : Merge two sorted lists<br>
 31 : Next Permutation<br>
 43 : Multiply Strings<br> 
