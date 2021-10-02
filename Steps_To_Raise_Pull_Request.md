@@ -32,7 +32,7 @@ Steps to Raise Pull Request
 > git commit -m "commit_message"    
 *Note: Please use relevant commit messages.*
 
-> git push
+> git push -u origin <your_branch_name> 
 
 #### 9. Create Pull request
 > Go to your forked repository, click on `Compare and pull requests`.
