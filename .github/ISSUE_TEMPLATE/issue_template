@@ -1,0 +1,10 @@
+---
+name: Query for assigning A question from Leetcode
+about: ''
+title: "[Question Number].[Question Name]"
+labels: hacktoberfest, hacktoberfest-accepted
+---
+
+Leetcode Question Number: <question-number>
+Problem Link: <add-the-link-to-question-here>
+Language: <replace-with-solution-language>
