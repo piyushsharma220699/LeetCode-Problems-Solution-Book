@@ -39,7 +39,7 @@ Steps to Raise Pull Request
 
 > Confirm your changed files. Add appropriate title and description.
 
-**Note: PR Title should be in the following format [LeetCode_question_number]\\_[Question_name separated by underscore]\\_[Language]**
+**Note: PR Title should be in the following format [LeetCode_question_number]\_[Question_name separated by underscore]_[Language]**
 
 Ex : 174_Dungeon_Game_C++
  
