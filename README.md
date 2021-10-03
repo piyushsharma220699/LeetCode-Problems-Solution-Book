@@ -1,3 +1,5 @@
+# <a href="https://github.com/piyushsharma220699/Hacktoberfest-2021/issues/261">PR doesn't count as a valid PR for Hacktoberfest, shows Excluded/BAD Repository</a>
+
 # HACKTOBERFEST 2021
 
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
