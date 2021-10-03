@@ -27,6 +27,7 @@
 1697 : Checking Existence of Edge Length Limited Paths<br>
 1769 : Minimum Number of Operations to Move All Balls to Each Box<br>
 1964 : Find the Longest Valid Obstacle Course at Each Position<br>
+2016 : Maximum Difference Between Increasing Elements<br>
 2022 : Convert 1D Array Into 2D Array<br>
 2023 : Number of Pairs of Strings With Concatenation Equal to Target<br>
 2024 : Maximize the Confusion of an Exam<br>
