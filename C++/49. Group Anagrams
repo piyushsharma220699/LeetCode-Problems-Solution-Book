@@ -1,0 +1,25 @@
+Given an array of strings strs, group the anagrams together. You can return the answer in any order.
+
+An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+ 
+ class Solution {
+public:
+    vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        vector<vector<string>> output;
+        if(strs.size()==1){
+            output.push_back({strs[0]});
+            return output;
+        }
+        unordered_map<string,vector<string>> mp;
+        for(int i=0;i<strs.size();i++){
+            string str=strs[i];
+            sort(str.begin(),str.end());
+            mp[str].push_back(strs[i]);
+        }
+        for(auto i=mp.begin();i!=mp.end();i++){
+            output.push_back(i->second);
+        }
+        return output;
+    }
+};
