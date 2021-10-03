@@ -12,10 +12,12 @@
 15 : 3Sum<br>
 21 : Merge two sorted lists<br>
 31 : Next Permutation<br>
+34 : Find First and Last Position of Element in Sorted Array<br>
 43 : Multiply Strings<br> 
 48 : Rotate Image<br>
 55 : Jump Game<br>
 59 : Spiral Matrix II<br>
+74 : Search a 2D Matrix<br>
 75 : Sort Colors<br>
 121 : Best Time To Buy And Sell Stock<br>
 162 : Find Peak Element<br>
