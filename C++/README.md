@@ -21,6 +21,7 @@
 162 : Find Peak Element<br>
 198 : House Robber<br>
 268 : Missing Number<br>
+343 : Integer Break<br>
 503 : Next Greater Element II<br>
 918 : Maximum Sum Circular Subarray<br>
 1014 : Best Sightseeing Pair<br>
