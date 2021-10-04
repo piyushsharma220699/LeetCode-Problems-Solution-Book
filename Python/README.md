@@ -6,3 +6,4 @@
 2 : Missing Number<br>
 3 : Peak Element <br>
 7 : Reverse Integer<br>
+521 : Longest Uncommon Subsequence I<br>
