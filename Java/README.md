@@ -5,3 +5,4 @@
 1 : Two Sum<br>
 7 : Reverse Integer<br>
 9 : Palindrome Number<br>
+162 : Find Peak Element<br>
