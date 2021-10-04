@@ -3,3 +3,4 @@
 ### NOTE : Include the code in the list in order of leetcode problem statement number
 
 2: Add Two Numbers<br>
+20: Valid Parentheses<br>
