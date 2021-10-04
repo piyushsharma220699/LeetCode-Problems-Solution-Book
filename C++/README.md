@@ -3,6 +3,7 @@
 ### NOTE : Include the code in the list in order of leetcode problem statement number
 
 1 : Two Sum<br>
+2 : Add Two Numbers<br>
 3 : Longest Substring Without Repeating Characters<br>
 6 : ZigZag Conversion<br>
 8 : String to Integer (atoi)<br>
@@ -16,6 +17,7 @@
 55 : Jump Game<br>
 59 : Spiral Matrix II<br>
 70 : Climbing Stairs<br>
+75 : Sort Colors<br>
 121 : Best Time To Buy And Sell Stock<br>
 128. Longest Consecutive Sequence<br>
 162 : Find Peak Element<br>
