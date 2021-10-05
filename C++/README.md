@@ -21,9 +21,11 @@
 162 : Find Peak Element<br>
 198 : House Robber<br>
 268 : Missing Number<br>
+378 : Kth Smallest Element in a Sorted Matrix<br>
 503 : Next Greater Element II<br>
 918 : Maximum Sum Circular Subarray<br>
 1014 : Best Sightseeing Pair<br>
 1697 : Checking Existence of Edge Length Limited Paths<br>
 1769 : Minimum Number of Operations to Move All Balls to Each Box<br>
 1964 : Find the Longest Valid Obstacle Course at Each Position<br>
+
